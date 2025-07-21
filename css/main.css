@@ -1068,6 +1068,14 @@ blockquote {
   display: -ms-inline-flexbox;
   display: inline-flex;
 }
+
+.seemore_button{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+
 .btn-line i {
   font-size: 2.3rem;
   overflow: hidden;
